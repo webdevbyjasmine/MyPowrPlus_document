@@ -67,4 +67,4 @@ PDF版
 
 2. 資料表/流程/心智圖
 
-💡 連結
+💡 [連結](https://www.figma.com/board/u0NG3VWhtywS1cmQdoz4aM/%E6%B5%81%E7%A8%8B%E5%9C%96---%E7%B6%93%E9%A9%97?node-id=1-47&t=5xKqXdFOvuwd4HEk-1)
